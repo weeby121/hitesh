@@ -7,19 +7,6 @@ This project aims to predict the likelihood of heart disease in patients based o
 *   **Best Model:** [E.g., RandomForest/XGBoost]
 *   **Accuracy:** [E.g., 91%]
 
-## 🗂️ Project Structure
-```bash
-├── data/
-│   └── heart.csv          # Source dataset
-├── notebooks/
-│   └── EDA.ipynb          # Exploratory Data Analysis
-│   └── Model_Training.ipynb
-├── models/
-│   └── model.pkl          # Saved trained model
-├── app.py                 # Streamlit/Flask web app
-├── README.md
-└── requirements.txt
-```
 
 ## 📊 Dataset Description
 The dataset used is commonly the [UCI Heart Disease Dataset](https://archive.ics.uci.edu/dataset/45/heart+disease), which contains 14 key features:
